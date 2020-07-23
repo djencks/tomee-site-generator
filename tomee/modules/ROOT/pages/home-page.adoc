@@ -1,0 +1,42 @@
+= Apache TomEE
+:page-layout: home-page
+:sectlinks!:
+:sectanchors!:
+:sectnums!:
+
+[.page-subtitle]
+MicroProfile and Jakarta EE on Tomcat
+
+[.block-row]
+--
+[openblock.row-block.block1]
+----
+[discrete.row-block-title]
+== Learn more about TomEE
+
+[.first]
+Documentation
+
+xref:8.0@tomee::index.adoc[Learn more...]
+----
+[openblock.row-block.block2]
+----
+[discrete.row-block-title]
+== How can I contribute to TomEE?
+
+[.first]
+Community
+
+xref:community/index.adoc[Learn more...]
+----
+[openblock.row-block.block3]
+----
+[discrete.row-block-title]
+== How can I download TomEE?
+
+[.first]
+Downloads
+
+xref:download-ng.adoc[Learn more...]
+----
+--
