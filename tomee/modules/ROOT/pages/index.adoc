@@ -1,0 +1,33 @@
+= TomEE Common Documentation Index
+//uncomment to generate nav contents into console log.
+//:antora-indexer-log-lists:
+
+
+Most of the TomEE common documentation has recently been migrated from the Apache CMS.
+It is entirely unorganized and has not been reviewed.
+The few parts that have coherent organization are shown first.
+
+* Community
+** xref:community/index.adoc[]
+** xref:community/contributing/contribution-tips.adoc[]
+** xref:community/contributing/workflow.adoc[]
+** xref:community/sources.adoc[]
+** xref:community/contributing/website.adoc[]
+** xref:community/contributors.adoc[]
+
+* All the community pages
+
+indexList::[level=2,module=*,relative='community/**/*.adoc']
+
+* Security
+** xref:security/security.adoc[]
+
+* All the security pages
+
+indexList::[level=2,module=*,relative='security/**/*.adoc']
+
+* All pages
+
+indexList::[level=2,module=*]
+
+
